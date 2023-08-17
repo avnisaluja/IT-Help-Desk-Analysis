@@ -1,5 +1,7 @@
 # IT-Help-Desk-Analysis
 IT tickets data and Agents’ profiles for a fictitious company you work for. We will provide our actionable insight into your organization's trends, usage patterns, systems behaviours, service level agreement etc. This will help  IT department stay updated with industry developments.
+
+
 insights :
 Total Tickets that were handled in 97k
 Outside sla is 52%.
