@@ -2,7 +2,7 @@
 IT tickets data and Agents’ profiles for a fictitious company you work for. We will provide our actionable insight into your organization's trends, usage patterns, systems behaviours, service level agreement etc. This will help  IT department stay updated with industry developments.
 
 
-insights :
+Insights :
 1.Total Tickets that were handled in 97k.
 2.Outside sla is 52%.
 3.Average Resolutions days were 5 days.
