@@ -3,15 +3,15 @@ IT tickets data and Agents’ profiles for a fictitious company you work for. We
 
 
 insights :
-Total Tickets that were handled in 97k
-Outside sla is 52%.
-Average Resolutions days were 5 days.
-Maximuim number of agents are young adults
-Most of the Tickets that were raised were of priority.
-Most of the Tickets that were raised from IT Type and system .
-Most of the satisfied by the service.
-The Top Agent who handled the most ticket is agent id 42.
-The It type requests that were raised were normal.
+1.Total Tickets that were handled in 97k.
+2.Outside sla is 52%.
+3.Average Resolutions days were 5 days.
+4.Maximuim number of agents are young adults
+5.Most of the Tickets that were raised were of priority.
+6.Most of the Tickets that were raised from IT Type and system .
+7.Most of the satisfied by the service.
+8.The Top Agent who handled the most ticket is agent id 42.
+9.The It type requests that were raised were normal.
 
 Tools used :Microsoft Power Bi.
 Concepts covered:
